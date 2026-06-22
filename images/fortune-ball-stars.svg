@@ -1,0 +1,18 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fortuneStarsTitle">
+  <title id="fortuneStarsTitle">Veštidlová guľa s hviezdami</title>
+  <defs>
+    <radialGradient id="starsBall" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="60%" stop-color="#c8a5ff"/>
+      <stop offset="100%" stop-color="#7a5d95"/>
+    </radialGradient>
+  </defs>
+  <rect x="26" y="120" width="188" height="84" rx="32" fill="#2f2d38" opacity="0.16"/>
+  <ellipse cx="120" cy="174" rx="106" ry="24" fill="#2f2d38" opacity="0.2"/>
+  <circle cx="120" cy="104" r="74" fill="url(#starsBall)" stroke="#2f2d38" stroke-width="10"/>
+  <path d="M100 106 C110 92, 130 88, 140 102" stroke="#2f2d38" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M88 80 h16 M116 72 v16" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M148 90 l6 -6 M154 96 l-6 6" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M76 132 C72 126, 82 126, 86 132" stroke="#4a2d3e" stroke-width="5" fill="none"/>
+  <path d="M154 134 C158 128, 168 128, 172 134" stroke="#4a2d3e" stroke-width="5" fill="none"/>
+</svg>
